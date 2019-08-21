@@ -120,16 +120,6 @@
 
     }
 
-/* validator */
-    div#validator
-    {
-
-     width:650px;
-     margin:15px;
-     padding:5px;
-     text-decoration:none;
-
-    }
 
 /* a font arial sans-serif*/
     a
@@ -269,7 +259,7 @@
     body 
     {
 
-     background-color:#b3b3ff;
+     background-color:black;
 
     }
 
