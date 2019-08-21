@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+  font-family: verdana;
+  font-size: 300%;
+}
+
+p  {
+  margin: 50px;
+  color: green;
+  font-family: courier;
+  font-size: 160%;
+  border: 1px solid black;
+}
+
