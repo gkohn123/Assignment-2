@@ -1,14 +1,251 @@
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
-}
+/* Bold font weight*/
+    .bold
+    {
+    
+     font-weight:bold;
 
-p  {
-  margin: 50px;
-  color: green;
-  font-family: courier;
-  font-size: 160%;
-  border: 1px solid black;
-}
+    }
 
+/* Italics font style*/
+    .italics
+    {
+    
+     font-style: italic;
+        
+    }
+
+/* h1 formating dark blue*/
+    h1
+    {
+
+     font-variant: small-caps;
+     color: #00008b;
+     text-align: center;
+
+    }
+
+/*div border and background*/
+    div
+    {
+
+     border:1px dashed #00008b;
+     border-radius: 15px;
+     background-color: #eeeeee;
+     width:650px
+     margin-top: 25px;
+     margin-bottom: 25px;
+     margin-left: 20px;
+     margin-right: 20px;
+     padding: 15px;
+
+    }
+
+
+
+/* p font family arial sans-serif*/
+    p
+    {
+
+     font-family:'arial',sans-serif;
+
+    }
+
+/* img padding */
+    img
+    {
+
+     padding:15px;
+
+    }
+
+/* img of me format */
+    img#img_me
+    {
+
+     float:left;
+
+    }
+
+/*blockquote calibri sans-serif*/
+    blockquote
+    {
+    
+     font-family:'calibri',sans-serif;
+
+    }
+
+/* validator */
+    div#validator
+    {
+
+     width:650px;
+     margin:15px;
+     padding:5px;
+     text-decoration:none;
+
+    }
+
+/* a font arial sans-serif*/
+    a
+    {
+
+     font-family: 'arial', sans-serif;
+     color:#8b0000;
+     text-decoration:none;
+
+    }
+
+/* a link bolded*/
+    a:link
+    {
+
+     font-weight:bold;
+
+    }
+
+/* a hover background red text grey*/
+    a:hover
+    {
+
+     background-color:#8b0000;
+     color:#eeeeee
+
+    }
+
+/* daily format */
+    div#daily
+    {
+
+     width:600px;
+     border-spacing:1px;
+     background-colorL#191970;
+    
+    }
+
+/* table remove embedded css*/
+    table
+    {
+
+     border:1px;
+     
+    }
+
+/* .course background */
+    .course
+    {
+
+     background-color:#6666ff;
+
+    }
+
+/* .work background grey */
+    .work
+    {
+
+     background-color:#dcdcdc;
+
+    }
+
+/* .cars */
+    .cars
+    {
+
+     background-color:#19484d;
+     color:#9fd9e0;
+
+    }
+
+/*tr text alignment background color */
+    tr
+    {
+
+     text-align:center;
+     background-color:#d3d3d3;
+
+    }
+
+/*td removing width attributes */
+    td
+    {
+
+     width:100px;
+
+    }
+
+/* th width 100px */
+    th
+    {
+
+     width:100px;
+
+    }
+
+/*tr hover background and text color */
+    tr:hover
+    {
+
+     background-color:#121312;
+     color:#fff;
+
+    }
+
+/* td hover background and text color */
+    td:hover
+    {
+
+     background-color#red;
+     color:#fff;
+
+    }
+
+/* th hover background and text color */
+    th:hover
+    {
+
+     background-color#red;
+     color:#fff;
+
+    }
+
+/* h2 heading sizing */
+    h2
+    {
+
+     text-align:center;
+     color:#00008b;
+
+    }
+
+/* hr width and color */
+    hr
+    {
+
+     width:75%;
+     color:#00008b;
+
+    }
+
+/* iframe format 640x480px */
+    iframe
+    {
+
+     width:640px;
+     height:480px;
+
+    }
+
+/* audio float audio to right */
+    audio
+    {
+
+     float:right;
+
+    }
+
+/*webpage format */
+    body 
+    {
+
+     background-color:#b3b3ff;
+
+    }
