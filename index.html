@@ -7,6 +7,30 @@
     </head>
 
     <body>
+         
+ <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn"
+        onclick="closeNav()">&times;</a>
+        <a href="https://gkohn-uno.github.io/Assignment-2-Greg-Kohn/">Home Page</a>
+        <a href="http://loki.ist.unomaha.edu/~gkohn/project/pagetwo.html">About Us</a>
+        <a href="http://loki.ist.unomaha.edu/~gkohn/project/pagethree.html">Games We Play</a>
+        <a href="http://loki.ist.unomaha.edu/~gkohn/project/pagefour.html">Streaming</a>
+        <a href="http://loki.ist.unomaha.edu/~gkohn/project/pagefive.html">Username Form </a>   
+ </div>
+    
+    <span style="font-size:40px;cursor:pointer"onclick="openNav()">&#9776; Menu</span>
+    <script>
+        function openNav() 
+        {
+        document.getElementById("mySidenav").style.width= "200px";
+        }   
+
+        function closeNav() 
+        {
+        document.getElementById("mySidenav").style.width="0";
+        }
+
+    </script>
 
 <!-- about_me section follows -->
 
