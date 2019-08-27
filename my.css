@@ -19,18 +19,19 @@
     margin-top:25px;
     }  
 
-   div#Family
+   #Family
     {
     border:1px solid #6666ff;    
     border-radius: 15px;
     background-color:#cce6ff;
-    width:650px;
+    width:650px
     margin-top:25px;
     margin-bottom:25px;
     margin-right:20px;
     margin-left:600px;
     padding: 15px;
     }
+
 
     
 
