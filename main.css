@@ -17,7 +17,7 @@
 /* h1 formating dark blue*/
     h1
     {
-     right 10%;
+     
      font-variant: small-caps;
      color: #00008b;
      text-align: center;
@@ -27,7 +27,8 @@
 /*div border and background*/
     div
     {
-
+    
+     right 10%;
      border:1px dashed #00008b;
      border-radius: 15px;
      background-color: #eeeeee;
