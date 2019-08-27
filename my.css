@@ -19,7 +19,7 @@
     margin-top:25px;
     }  
 
-   #about_pojo_posse
+   #Family
     {
     border:1px solid #6666ff;    
     border-radius: 15px;
@@ -43,6 +43,8 @@
 
     img#US
     {
+    height: 200px;
+    width 50%;
     margin-top:20px;
     border:1px solid #021a40;
     background-color:#6600cc;  
