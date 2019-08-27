@@ -1,0 +1,142 @@
+    .bold
+    {
+    font-weight:bold;
+    } 
+
+    .italics
+    {
+    font-style:italic;
+    }
+
+
+    
+    h1
+    {
+    font-variant:small-caps;
+    color: #00134d ;
+    text-align:center;
+    margin-bottom:25px;
+    margin-top:25px;
+    }  
+
+   #about_pojo_posse
+    {
+    border:1px solid #6666ff;    
+    border-radius: 15px;
+    background-color:#cce6ff;
+    width:650px
+    margin-top:25px;
+    margin-bottom:25px;
+    margin-right:20px;
+    margin-left:600px;
+    padding: 15px;
+    }
+
+    
+   #validator
+    {
+     position:bottom;
+     width:10%;
+    }
+
+
+    img
+    {
+    padding:15px;
+    border:1px solid #021a40;
+    }
+
+    img#greg
+    {
+    margin-top:20px;
+    border:1px solid #021a40;
+    background-color:#6600cc;  
+    float:left;
+    }   
+
+    
+    img#pojo
+    {
+    margin-top:20px;
+    border:1px solid #021a40;
+    background-color:#cc0000;
+    }
+
+    img#andrew
+    {
+    margin-top:10px;
+    border:1px solid #021a40;
+    background-color:#cccc00;
+    }
+
+    img#Garrett
+    {
+    margin-top:10px;
+    border:1px solid #021a40;
+    background-color:#6600cc;
+    }
+
+    img#sodapop
+    {
+    margin-top:10px;
+    border:1px solid #021a40;
+    background-color:#cc0000;
+    }
+
+    img#james
+    {
+    margin-top:10px;
+    border:1px solid #021a40;
+    background-color:#cc0000;
+    }   
+
+    body
+    {
+    background-image:url(images/background2.jpg);
+    background-size:cover;
+    }
+    
+    .sidenav
+    {
+    height:100%;
+    width:0;
+    position:fixed;
+    z-index:1;
+    top:0;
+    left:0;
+    background-color:#111;
+    overflow-x:hidden;
+    transition:0.5s;
+    padding-top:60px;
+    }
+
+    .sidenav a
+    {
+    padding:8px 8px 8px 32px;
+    text-decoration:none;
+    font-size:25px;
+    color:#818181;
+    display:block;
+    transition:0.3s;
+    }
+
+    .sidenav a:hover
+    {
+    color:#f1f1f1;
+    }
+
+
+    .sidenavv .closebtn
+    {
+    position:absolute;
+    top:0;
+    right:25px;
+    font-size:36px;
+    margin-left:50px;
+    }
+
+    @media screen and (max-height:450px)
+    {
+     .sidenav {padding-top:15px;}
+     .sidenav a {font-size:18px;}
+
