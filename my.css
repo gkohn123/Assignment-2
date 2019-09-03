@@ -28,7 +28,7 @@
     border:1px solid #6666ff;    
     border-radius: 15px;
     background-color:#cce6ff;
-    width:650px
+    width:800px
     margin-top:25px;
     margin-bottom:25px;
     margin-right:20px;
@@ -52,7 +52,6 @@
     float:left;
     }   
 
-    
     img#Kinje
     {
     height: 400px;
@@ -72,12 +71,6 @@
     }
 
 
-
-    body
-    {
-    background-image:url(images/background2.jpg);
-    background-size:cover;
-    }
     
     .sidenav
     {
