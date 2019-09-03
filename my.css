@@ -59,9 +59,11 @@
     
     img#Kinje
     {
+    height: 400px;
     margin-top:20px;
     border:1px solid #021a40;
     background-color:#cc0000;
+    float:left;
     }
 
     img#Poppy
@@ -69,6 +71,7 @@
     margin-top:10px;
     border:1px solid #021a40;
     background-color:#cccc00;
+    float:left;
     }
 
 
